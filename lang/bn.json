@@ -1,0 +1,146 @@
+    {
+        "language" : "বাংলা",
+
+        "appName" : "বিলিং অ্যাপ",
+
+        "home" : "হোম",
+        "dashboard" : "ড্যাশবোর্ড",
+        "settings" : "সেটিংস",
+
+        "products" : "পণ্য",
+        "sales" : "বিক্রয় যোগ করুন",
+        "customer" : "ক্রেতা",
+        "supplier" : "সরবরাহকারী",
+        "dueList" : "বাকির তালিকা",
+        "stock" : "মজুত",
+        "invoice" : "চালান",
+        "invSettings" : "চালান সেটিংস",
+        "seller" : "বিক্রেতা",
+
+        "manageProduct" : "পণ্য পরিচালনা করুন",
+        "cart" : "কার্ট",
+        "profile" : "প্রোফাইল",
+        "developer" : "ডেভেলপার",
+        "aboutApp" : "অ্যাপ সম্পর্কে",
+        "logout" : "লগ আউট",
+
+        "addProductTitle" : "নতুন পণ্য যোগ করুন",
+        "noImageTxt" : "ছবি নির্বাচন করা হয়নি",
+        "productName" : "পণ্যের নাম",
+        "productCategory" : "পন্যের বিভাগ",
+        "selectCategory" : "বিভাগ নির্বাচন করুন",
+        "brand" : "ব্র্যান্ড",
+        "productCode" : "পণ্যের কোড",
+        "unit" : "ইউনিট",
+        "salesPrice" : "বিক্রয় মূল্য",
+        "discount" : "ছাড়",
+        "wholesalePrice" : "পাইকারি দাম",
+        "dealerPrice" : "ডিলার মূল্য",
+        "manufacture" : "উত্পাদন",
+        "taxPercentage" : "ট্যাক্স শতাংশ",
+        "saveProduct" : "পণ্য সংরক্ষণ করুন",
+
+        "delete" : "মুছে ফেলুন",
+        "total" : "মোট",
+        "itemsInCart" : "আইটেম কার্টে",
+        "taxAmount" : "করের পরিমাণ",
+        "totalIncTax" : "মোট কর সহ",
+        "selectCustomer" : "ক্রেতা নির্বাচন করুন",
+        "totalPrice" : "মোট দাম",
+        "pay" : "পরিশোধ করুন",
+
+        "customerName" : "ক্রেতার নাম",
+        "search" : "অনুসন্ধান করুন",
+        "fromDate" : "তারিখ হইতে",
+        "toDate" : "এখন পর্যন্ত",
+        "ok" : "ঠিক আছে",
+        "list" : "তালিকা",
+
+        "addNewCustomerTitle" : "নতুন ক্রেতা যোগ করুন",
+        "phoneNumber" : "ফোন নম্বর",
+        "emailAddress" : "ইমেইল ঠিকানা",
+        "address" : "ঠিকানা",
+        "save" : "সেভ করুন",
+
+        "supplierName" : "সরবরাহকারীর নাম",
+        "addNewSupplierTitle" : "নতুন সরবরাহকারী যোগ করুন",
+
+        "profilePageTitle" : "প্রোফাইল পৃষ্ঠা",
+        "dailyTransaction" : "দৈনিক লেনদেন",
+        "due" : "বাকি",
+        "promo" : "প্রচার",
+
+        "profile_invSettings" : "প্রোফাইল/ইনভয়েস সেটিংস",
+        "company_businessName" : "কোম্পানি/ব্যবসার নাম",
+        "website" : "ওয়েবসাইট",
+        "profileVisibility" : "প্রোফাইল দৃশ্যমানতা",
+        "private" : "ব্যক্তিগত",
+        "public" : "পাবলিক",
+
+        "totalOfSale" : "মোট বিক্রয়",
+        "totalOfCredits" : "মোট ক্রেডিট",
+        "totalOfSalePaidByCash" : "নগদ দ্বারা প্রদত্ত বিক্রয়ের মোট",
+        "totalOfSalePaidByCard_others" : "কার্ড/ব্যাঙ্ক/চেক দ্বারা প্রদত্ত মোট বিক্রয়",
+        "totalOfCreditPaid" : "প্রদত্ত ক্রেডিট মোট",
+        "totalOfCreditDue" : "মোট বকেয়া ক্রেডিট",
+        "totalOfCreditPaidByOthers" : "কার্ড/ব্যাঙ্ক/চেক দ্বারা প্রদত্ত মোট ক্রেডিট",
+        "totalOfCreditPaidByCash" : "নগদ দ্বারা প্রদত্ত ক্রেডিট মোট",
+        "totalPaidToSupplier" : "সরবরাহকারীকে মোট অর্থপ্রদান",
+        "totalBalanceToSupplier" : "সরবরাহকারীর কাছে মোট ব্যালেন্স",
+
+        "account" : "একাউন্ট",
+        "accountInfo" : "অ্যাকাউন্ট এর তথ্য",
+        "common" : "সাধারণ",
+        "languageTitle" : "ভাষা",
+        "others" : "অন্যান্য",
+        "policies" : "নীতি",
+        "terms_conditions" : "শর্তাবলী",
+        "help" : "সাহায্য",
+
+        "sellerName" : "বিক্রেতার নাম",
+        "price" : "মূল্য",
+        "quantity" : "পরিমাণ",
+        "totalPriceOfStock" : "মজুতের মোট মূল্য",
+        "addToCart" : "কার্টে যোগ করুন",
+        "lessQuantityMsg" : "পরিমাণ 1 এর কম হতে পারে না",
+        "bigQuantityMsg" : "পরিমাণ স্টকের চেয়ে বড় হতে পারে না",
+
+        "cash" : "নগদ",
+        "collectByHand" : "হাতে সংগৃহীত",
+        "cardBankCheque" : "কার্ড/ব্যাংক/চেক",
+        "collectBy" : "দ্বারা সংগৃহীত",
+        "credit" : "ক্রেডিট",
+        "savedAsCredit" : "ক্রেডিট হিসাবে সংরক্ষিত",
+
+        "productDetails" : "পণ্যের বিবরণ",
+        "updateProduct" : "পণ্য আপডেট করুন",
+        "warning" : "সতর্কতা",
+        "deleteMsg" : "এটি স্থায়ীভাবে মুছে যাবে",
+        "cancel" : "বাতিল",
+        "delete" : "মুছে ফেলুন",
+
+        "appExitMsg" : "আপনি কি অ্যাপ থেকে বের হতে চান?",
+        "no" : "না",
+        "yes" : "হ্যাঁ",
+
+        "feedback" : "প্রতিক্রিয়া",
+
+        "invoiceNumber" : "চালান নম্বর",
+        "noInvoiceYet" : "এখনও কোন চালান নেই!!",
+        "deleteAll" : "সব মুছে ফেলুন",
+        "deleteSuccessful" : "সফলভাবে মুছে ফেলা হয়েছে",
+
+        "addNewCategory" : "নতুন বিভাগ যোগ করুন",
+        "categoryName" : "বিভাগের নাম",
+        "add" : "যোগ করুন",
+
+        "notifications" : "বিজ্ঞপ্তি",
+
+        "totalAmount" : "সর্বমোট পরিমাণ",
+        "due" : "বাকি"
+
+
+
+
+
+    }
